@@ -1,54 +1,94 @@
-# 🌐 My First HTML Project
+# GMHSS PMNA — School Website
 
-> 🎓 My first web development project created during Class 12 to learn the fundamentals of HTML and basic website development.
+### From my first HTML experiment to a redesigned school website.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-222222?logo=github)](https://muneeb-pt.github.io/MyFirst-HTML-project/)
-[![Status](https://img.shields.io/badge/Status-Completed-success)](#)
-[![First Project](https://img.shields.io/badge/Project-First%20HTML%20Project-blue)](#)
+[![Live Website](https://img.shields.io/badge/Live-Website-2ea44f?style=for-the-badge)](https://muneeb-pt.github.io/MyFirst-HTML-project/)
+[![HTML](https://img.shields.io/badge/HTML5-Project-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## 🔗 Live Demo
-
-👉 **[View the Website](https://muneeb-pt.github.io/MyFirst-HTML-project/)**
+**Live Website:** https://muneeb-pt.github.io/MyFirst-HTML-project/
 
 ---
 
-## 📖 About
+## 📖 The Story Behind This Project
 
-This repository contains my **first HTML project**, created while I was learning web development during Class 12.
+This project started as one of my first experiments with web development during my Class 12 studies.
 
-The main purpose of this project was to understand how a basic website is structured and how different HTML pages, images, links, forms and other elements work together.
+At that time, I was just beginning to understand how websites worked. I started with basic HTML, experimenting with elements, images, links, tables and page structures. It was not a professional website, but it was an important starting point in my journey.
 
-This project represents my **starting point in web development** and serves as a record of my early learning journey.
+Later, after starting my B.Tech in Computer Science and Engineering, I decided to revisit this old project.
+
+Instead of leaving it as a simple beginner-level website, I wanted to see how much I could improve it with the knowledge and tools I had gained.
+
+I redesigned the website, introduced CSS styling, improved the layout and navigation, organized the content into meaningful sections and worked on making the website more responsive.
+
+I also used AI as a development assistant to speed up parts of the process. However, the project became an opportunity to explore the generated code, understand how different elements work together, identify issues and make improvements.
+
+**The most interesting part of this project is not just the final website. It is the progress between the first version and the redesigned version.**
 
 ---
 
-## 🎯 Objectives
+## 🔄 Website Evolution: Before & After
 
-The project was created to learn and practice:
+This section showcases the transformation of the project from its original beginner version to the redesigned website.
 
-* HTML document structure
-* Headings and paragraphs
-* Links and navigation
-* Images
-* Forms
-* Tables
-* Lists
-* Multiple HTML pages
-* Basic website organization
-* Working with local assets
-* Hosting a website using GitHub Pages
+### 1. Before — Original Version
+
+My first version, created while learning basic HTML.
+
+![Original Website Homepage](screenshots/old-homepage.png)
+
+### 2. After — Redesigned Version
+
+The redesigned website with improved structure, styling, navigation and content presentation.
+
+![Redesigned Website Homepage](screenshots/new-homepage.png)
+
+### 3. More Screenshots
+
+#### About the School
+![About Section](screenshots/about-section.png)
+
+#### Academics
+![Academics Section](screenshots/academics-section.png)
+
+#### Campus and Facilities
+![Campus Section](screenshots/campus-section.png)
+
+#### Location and Student Details
+![Location Page](screenshots/location-page.png)
+
+#### Responsive Design
+![Mobile View](screenshots/mobile-view.png)
+
+---
+
+## ✨ Features
+
+- School introduction and overview.
+- About, vision, mission and history sections.
+- Campus and facilities gallery.
+- Academic information.
+- Achievements section.
+- Community information.
+- Contact and location information.
+- Student details and course distribution.
+- Responsive layouts for different screen sizes.
+
+*Note: The feedback form is currently a frontend interface. It requires backend or form-service integration to receive and store submissions.*
 
 ---
 
 ## 🛠️ Technologies Used
 
-| Technology   | Purpose             |
-| ------------ | ------------------- |
-| HTML5        | Website structure   |
-| Git          | Version control     |
-| GitHub       | Source-code hosting |
-| GitHub Pages | Website deployment  |
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure and content |
+| CSS3 | Styling, layouts and responsive design |
+| Git | Version control |
+| GitHub | Source code hosting |
+| GitHub Pages | Website deployment |
+| AI Tools | Development assistance and learning support |
 
 ---
 
@@ -58,142 +98,92 @@ The project was created to learn and practice:
 MyFirst-HTML-project/
 │
 ├── index.html
+├── style.css
+│
 ├── add.html
+├── add.css
+│
+├── screenshots/
+│   ├── old-homepage.png
+│   ├── new-homepage.png
+│   ├── about-section.png
+│   ├── academics-section.png
+│   ├── campus-section.png
+│   ├── location-page.png
+│   └── mobile-view.png
 │
 ├── README.md
 │
-├── 0b.jpg
-├── 0b1.jpg
-├── 0b2.jpg
-├── ...
-│
-└── other image assets
+└── images and other assets
 ```
 
 ---
 
-## ✨ Features
+## 📚 What I Learned
 
-* 📄 Multiple HTML pages
-* 🖼️ Image-based content
-* 🔗 Page navigation
-* 📝 HTML forms
-* 📚 Educational content
-* 🌐 Hosted using GitHub Pages
-* 💻 Simple beginner-friendly HTML implementation
+Working on this project helped me explore and practise:
 
----
-
-## 🧠 What I Learned
-
-This project helped me understand the fundamentals of building a webpage from scratch.
-
-### HTML
-
-I practiced:
-
-* HTML elements
-* Attributes
-* Links
-* Images
-* Lists
-* Tables
-* Forms
-* Page structure
-* File paths
-* Basic navigation
-
-### Git & GitHub
-
-I also started learning:
-
-* Creating repositories
-* Committing code
-* Pushing changes
-* Managing project files
-* Publishing a website with GitHub Pages
+- Structuring webpages using HTML.
+- Using semantic HTML elements.
+- Connecting external CSS files.
+- Working with images, links, tables and navigation.
+- Understanding CSS layouts and positioning.
+- Using Flexbox and responsive design techniques.
+- Organizing a website into multiple pages and sections.
+- Hosting a website using GitHub Pages.
+- Using GitHub to maintain and showcase projects.
+- Debugging and improving existing code.
+- Using AI tools as development assistance.
 
 ---
 
-## 🚀 Running the Project Locally
+## 🤖 My Experience Using AI
 
-No framework or installation is required.
+AI played a role in accelerating the redesign process.
 
-### 1. Clone the repository
+It helped me explore design ideas, generate code suggestions and understand possible solutions. But this also made me realize something important:
 
-```bash
-git clone https://github.com/Muneeb-PT/MyFirst-HTML-project.git
-```
+**Generating code is not the same as understanding code.**
 
-### 2. Open the project
+My next goal is to become more confident in writing, modifying and debugging the code independently, rather than depending on AI for every change.
 
-Open the project folder and launch:
-
-```text
-index.html
-```
-
-in a web browser.
+I consider this project a learning milestone, not a finished demonstration of my web development skills.
 
 ---
 
-## 🌍 Live Website
+## 🚀 Future Improvements
 
-The project is deployed using **GitHub Pages**:
+Some improvements I would like to explore:
 
-👉 https://muneeb-pt.github.io/MyFirst-HTML-project/
-
----
-
-## 📸 Screenshots
-
-Screenshots can be added here to show the website and important pages.
-
-Example:
-
-```markdown
-![Homepage](./screenshots/homepage.png)
-```
+- JavaScript-based interactive features.
+- A functional feedback form.
+- Better accessibility.
+- Improved image optimization and loading performance.
+- More advanced mobile navigation.
+- A dynamic school notice board.
+- Further UI and UX improvements.
 
 ---
 
-## 📈 Project Status
+## 👨‍💻 About Me
 
-**Completed — First HTML Learning Project**
+**Mohammed Muneeb PT**
 
-This project is preserved as part of my early programming and web-development journey.
+B.Tech Computer Science and Engineering Student
 
----
+Interested in Software Engineering, Artificial Intelligence and Machine Learning, and Web Development.
 
-## 🔮 Future Improvements
-
-If I revisit this project, I would like to:
-
-* [ ] Add CSS styling
-* [ ] Improve responsive design
-* [ ] Improve accessibility
-* [ ] Organize image assets
-* [ ] Improve semantic HTML
-* [ ] Add JavaScript interactions
-* [ ] Improve navigation
-* [ ] Optimize images
-* [ ] Improve mobile experience
+- GitHub: [Muneeb-PT](https://github.com/Muneeb-PT)
+- LinkedIn: [Mohammed Muneeb PT](https://www.linkedin.com/in/mohammed-muneeb-pt/)
 
 ---
 
-## 👨‍💻 Author
+## ⭐ Final Note
 
-**Muneeb PT**
+This repository represents more than a school website.
 
-GitHub:
-https://github.com/Muneeb-PT
+It represents a small part of my journey from writing my first HTML code to revisiting, redesigning and improving an existing project.
 
----
+There is still a lot to learn, and this is only the beginning.
 
-## 📜 Note
-
-This project was created as a **learning project during Class 12**.
-
-It is intentionally preserved as a representation of my early stage of learning web development.
-
-> **Every developer has a first project. This is mine.** 🚀
+**Built while learning. Improved with curiosity. Still evolving.**
